@@ -34,9 +34,6 @@ latest and greatest unofficial Gemini AppImage
 qt6 cpp and gtk3 appimage built for arch and debian
 this simply loads the deepseek website 
 
-due to region restrictions 
-this website may not work for you please check your current law for your country before accessing this site
-
 
 If you like what I'm doing and want to support me to improve, 
 <div align="center">
