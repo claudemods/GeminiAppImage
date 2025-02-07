@@ -1,0 +1,2 @@
+# GeminiAppImage
+unofficial gemini appimage
